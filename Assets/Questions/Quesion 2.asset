@@ -12,4 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 043e06dc5c8134c6e8d4c10a95cd2fe0, type: 3}
   m_Name: Quesion 2
   m_EditorClassIdentifier: 
-  question: Enter new quesion text here
+  question: "\uC774\uAC83\uC740 \uD14C\uC2A4\uD2B8 \uBB38\uC81C\uC785\uB2C8\uB2E4.
+    (\uC815\uB2F5\uC740 2)"
+  answers:
+  - "\uC608\uC2DC2-1"
+  - "\uC608\uC2DC2-2"
+  - "\uC608\uC2DC2-3"
+  - "\uC608\uC2DC2-4"
+  correctAnswerIndex: 1
